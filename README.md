@@ -13,7 +13,7 @@
 <a href="https://open.spotify.com/user/76j71n57gfgigt7c6cz8959gx">
   <img align="left" alt="Akshat's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://discord.com/channels/@me/581409286454771722">
+<a href="https://discord.com/channels/@me/Akshat#1723">
   <img align="left" alt="Akshat's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
