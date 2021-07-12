@@ -4,13 +4,22 @@
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="https://twitter.com/AkshatBhuhagal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/AkshatBhuhagal]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.linkedin.com/in/akshat-bhuhagal/">
+  <img align="left" alt="Akshat's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/AkshatBhuhagal">
+  <img align="left" alt="Akshat's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://open.spotify.com/user/76j71n57gfgigt7c6cz8959gx">
+  <img align="left" alt="Akshat's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100008236753507">
+  <img align="left" alt="Akshat's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
 
 <br />
+
+### Website - 
 
 ### <a href=""><img src="https://topservers.com/dynamic_banners/162611656719721486.gif" alt="profile info" width="468" height="60"></a>
 
