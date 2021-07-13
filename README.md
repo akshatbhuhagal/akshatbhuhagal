@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38C2FF&size=30&multiline=true&lines=Hello+folks%2C+It's+Akshat)](https://git.io/typing-svg)
+# Hello folks! It's [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Akshat)](https://git.io/typing-svg)
 
 
 ### Connect with me:
