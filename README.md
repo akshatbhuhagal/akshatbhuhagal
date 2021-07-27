@@ -44,7 +44,7 @@
 
 <br>
 
-### Languages and Tools: 
+### Tech Stack: 
 
 
 
