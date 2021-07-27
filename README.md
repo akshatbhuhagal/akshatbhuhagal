@@ -2,8 +2,6 @@
 
 ### Connect with me:
 
-<p align="center"> 
-
 <a href="https://www.linkedin.com/in/akshat-bhuhagal/">
   <img align="left" alt="Akshat's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -16,13 +14,10 @@
 <a href="https://discord.com/channels/@me/Akshat#1723">
   <img align="left" alt="Akshat's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-
 <a href="https://www.facebook.com/profile.php?id=100008236753507">
   <img align="left" alt="Akshat's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
   
- </p>
-
 <br />
 
 ### Website - [Check Out Personal Portfolio](https://akshatbhuhagal.github.io/Personal-Portfolio)
