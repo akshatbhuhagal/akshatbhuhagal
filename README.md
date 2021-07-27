@@ -2,6 +2,7 @@
 
 ### Connect with me:
 
+<p align="center"> 
 
 <a href="https://www.linkedin.com/in/akshat-bhuhagal/">
   <img align="left" alt="Akshat's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -19,6 +20,8 @@
 <a href="https://www.facebook.com/profile.php?id=100008236753507">
   <img align="left" alt="Akshat's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
+  
+ </p>
 
 <br />
 
