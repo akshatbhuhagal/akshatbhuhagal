@@ -24,6 +24,8 @@
 
 ### Website - [Check Out Personal Portfolio](https://akshatbhuhagal.github.io/Personal-Portfolio)
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 ### <a href=""><img src="https://topservers.com/dynamic_banners/162611656719721486.gif" alt="profile info" width="468" height="60"></a>
 
 
