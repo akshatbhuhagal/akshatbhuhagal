@@ -32,7 +32,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" />
 
-### I am a Full Stack Developer
+### I am a Android App Developer
 - 💻 Android App Developer
 - 🔭 I’m currently working on my Small Projects
 - 🌱 I’m currently learning Node.js, DSA
