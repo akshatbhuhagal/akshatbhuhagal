@@ -40,7 +40,7 @@
 - 💬 Ask me about **Kotlin, C++, Node.js, Video Games, Graphic Design**
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/akshat-bhuhagal/"> LinkedIn </a>
 - 🧗 I try to: Learn Beside Tech
-- ⚡ Fun fact: Jumped into Coding World Cause of Video Games :raised_hands:
+- ⚡ Fun fact: Jumped into Coding Abyss Cause of Video Games :raised_hands:
 
 <br>
 
