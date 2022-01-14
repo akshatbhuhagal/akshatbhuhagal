@@ -26,9 +26,10 @@
 <a href="https://www.facebook.com/profile.php?id=100008236753507">
   <img align="center" alt="Akshat's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
- 
+
 </p>
 
+![](https://komarev.com/ghpvc/?username=akshatbhuhagal&color=blue&style=plastic)
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" />
 
