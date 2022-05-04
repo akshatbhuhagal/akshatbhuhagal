@@ -17,14 +17,8 @@
 <a href="https://twitter.com/AkshatBhuhagal">
   <img align="center" alt="Akshat's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://open.spotify.com/user/76j71n57gfgigt7c6cz8959gx">
-  <img align="center" alt="Akshat's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 <a href="https://discord.com/channels/@me/Akshat#1723">
   <img align="center" alt="Akshat's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100008236753507">
-  <img align="center" alt="Akshat's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 
 </p>
