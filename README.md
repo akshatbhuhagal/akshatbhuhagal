@@ -20,10 +20,9 @@
 
 ### 🧐 About
 - 💻 Android App Developer
-- 🔭 I’m currently working on my Small Projects
 - 🌱 I’m currently learning Node.js, DSA
 - 👯 I’m looking to collaborate with other Developers 
-- 💬 Ask me about **Kotlin, C++, Node.js, Video Games, Graphic Design**
+- 💬 Ask me about **Kotlin, C++, Node.js, Flutter, Graphic Design**
 - ⚡ Fun fact: Jumped into Coding Abyss Cause of Video Games :raised_hands:
 
 <br>
