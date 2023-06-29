@@ -20,9 +20,9 @@
 
 ### 🧐 About
 - 💻 Android App Developer
-- 🌱 I’m currently learning Jetpack Compose, DSA
-- 👯 I’m looking to collaborate with other Developers 
-- 💬 Ask me about **Kotlin, C++, Node.js, Flutter, Graphic Design**
+- 🌱 Learning about Jetpack Compose
+- 👯 Looking to collaborate with other Developers
+- 💬 Ask me about **Android, Kotlin, Flutter, Graphic Design**
 - ⚡ Fun fact: Jumped into Coding Abyss Cause of Video Games :raised_hands:
 
 <br>
