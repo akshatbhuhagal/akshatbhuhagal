@@ -7,13 +7,13 @@
 <p align="center">
   
 <a href="https://www.linkedin.com/in/akshat-bhuhagal/">
-  <img align="center" alt="Akshat's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Akshat's LinkedIN" width="50px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />
 </a>
 <a href="https://twitter.com/AkshatBhuhagal">
-  <img align="center" alt="Akshat's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="center" alt="Akshat's Twitter" width="50px" src="https://static.vecteezy.com/system/resources/previews/018/930/745/original/twitter-logo-twitter-icon-transparent-free-free-png.png" />
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=akshatbhuhagal@gmail.com">
-  <img align="center" alt="Akshat's Discord" width="22px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" />
+  <img align="center" alt="Akshat's Email" width="50px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" />
 </a>
 
 </p>
