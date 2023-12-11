@@ -1,4 +1,4 @@
-## 深淵, I'm Akshat Bhuhagal! 👋
+## インサイドアビス, I'm Akshat Bhuhagal! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-AkshatBhuhagal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/akshat-bhuhagal/)](https://www.linkedin.com/in/akshat-bhuhagal/)
 [![Twitter Badge](http://img.shields.io/badge/-@AkshatBhuhagal-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/AkshatBhuhagal)](https://twitter.com/AkshatBhuhagal)
