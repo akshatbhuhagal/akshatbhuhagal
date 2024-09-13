@@ -1,7 +1,7 @@
-## インサイドアビス, I'm Akshat Bhuhagal! 👋
+## I'm Akshat Bhuhagal! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-AkshatBhuhagal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/akshat-bhuhagal/)](https://www.linkedin.com/in/akshat-bhuhagal/)
-[![Twitter Badge](http://img.shields.io/badge/-@AkshatBhuhagal-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/AkshatBhuhagal)](https://twitter.com/AkshatBhuhagal)
+[![Twitter Badge](http://img.shields.io/badge/-@AkshatBhuhagal-1ca0f1?style=social&logo=x&logoColor=blue&link=https://x.com/AkshatBhuhagal)](https://x.com/AkshatBhuhagal)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:akshatbhuhagal@gmail.com)](mailto:akshatbhuhagal@gmail.com)
 
 ## 🧐 About
@@ -14,7 +14,7 @@
 ## Tech Stack
 
 <img align="left" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="25px"/>
-<img align="left" src="https://camo.githubusercontent.com/973913d161ca9ac03d1e941e3c0a9785dd928059a48274ed2b3ff564b5c564b2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" alt="java" width="25px"/>
+<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="25px"/>
 <img align="left" src="https://img.icons8.com/fluency/256/flutter.png" alt="flutter" width="25px"/>
 <img align="left" src="https://img.icons8.com/color/256/dart.png" alt="dart" width="25px"/>
 <img align="left" src="https://seeklogo.com/images/A/aws-amplify-logo-D68DDB5AB1-seeklogo.com.png" alt="awsamplify" width="25px"/>
