@@ -17,8 +17,8 @@
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="25px"/>
 <img align="left" src="https://img.icons8.com/fluency/256/flutter.png" alt="flutter" width="25px"/>
 <img align="left" src="https://img.icons8.com/color/256/dart.png" alt="dart" width="25px"/>
-<img align="left" src="https://seeklogo.com/images/A/aws-amplify-logo-D68DDB5AB1-seeklogo.com.png" alt="awsamplify" width="25px"/>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="awsamplify" width="25px"/>
+<img align="left" src="https://github.com/aws-amplify/docs/raw/main/public/images/Logos/Amplify%20Logo.svg" alt="awsamplify" width="25px"/>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="androidstudio" width="25px"/>
 <img align="left" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="jetpackcompose" width="25px"/>
 <img align="left" alt="Visual Studio Code" width="25px" src="https://code.visualstudio.com/assets/images/code-stable.png" />
 <img align="left" alt="Git" width="25px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
