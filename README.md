@@ -1,14 +1,14 @@
 ## I'm Akshat Bhuhagal! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-AkshatBhuhagal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/akshat-bhuhagal/)](https://www.linkedin.com/in/akshat-bhuhagal/)
-[![Twitter Badge](http://img.shields.io/badge/-@AkshatBhuhagal-1ca0f1?style=social&logo=x&logoColor=blue&link=https://x.com/AkshatBhuhagal)](https://x.com/AkshatBhuhagal)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:akshatbhuhagal@gmail.com)](mailto:akshatbhuhagal@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-bhuhagal/)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://axat.hashnode.dev/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatbhuhagal@gmail.com)
 
 ## 🧐 About
-- 💻 Android App Developer
-- 🌱 I’m currently learning about Jetpack Compose
-- 👯 I’m Looking to collaborate with other Developers
-- 💬 Ask me about Android Development or tech related stuff
+- 💻 Mobile App Developer | Flutter • Kotlin • Jetpack Compose
+- 🚀 Building next-gen fintech apps with modern tech
+- ☕ Coding, vibing, and shipping cool stuff
+- 💬 Ask me about Mobile Development or tech related stuff
 - ⚡ Fun fact: Jumped into Coding Abyss cause of Video Games :raised_hands:
 
 ## Tech Stack
