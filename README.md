@@ -18,7 +18,7 @@
 <img align="left" src="https://img.icons8.com/fluency/256/flutter.png" alt="flutter" width="25px"/>
 <img align="left" src="https://img.icons8.com/color/256/dart.png" alt="dart" width="25px"/>
 <img align="left" src="https://github.com/aws-amplify/docs/raw/main/public/images/Logos/Amplify%20Logo.svg" alt="awsamplify" width="25px"/>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="androidstudio" width="25px"/>
+<img align="left" src="https://upload.vectorlogo.zone/logos/android_studio/images/ff189138-7a77-4565-85fe-ecf6b6cc9d73.svg" alt="androidstudio" width="25px"/>
 <img align="left" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="jetpackcompose" width="25px"/>
 <img align="left" alt="C#" width="25px" src="https://code.visualstudio.com/assets/home/language-cs.png" />
 <img align="left" alt="Visual Studio Code" width="25px" src="https://code.visualstudio.com/assets/branding/code-stable.png" />
